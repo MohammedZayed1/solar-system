@@ -19,4 +19,4 @@ jobs:
               run: cat dragon.txt
 
             - name: checkout repo files
-              run: 1s
+              run: ls
